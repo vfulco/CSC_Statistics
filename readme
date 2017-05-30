@@ -1,0 +1,10 @@
+A python script to get Statistics of CSC admission list. China Scholarship Council sponsors students in top Chinese universities to go study abroad. 
+
+How to run?
+(In a Linux terminal)
+sh run.sh
+
+Results of 2016: csc_2016.txt
+Results of 2017: csc_2017_5.txt
+
+看到结果，不禁想起了一名长者的话,"闷声发大财"。
